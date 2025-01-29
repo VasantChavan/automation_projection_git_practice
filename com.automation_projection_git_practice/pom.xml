@@ -11,13 +11,13 @@
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
 			<artifactId>selenium-java</artifactId>
-			<version>4.28.0</version>
+			<version>4.27.0</version>
 		</dependency>
 
 		<dependency>
 			<groupId>org.testng</groupId>
 			<artifactId>testng</artifactId>
-			<version>7.10.1</version>
+			<version>7.4.0</version>
 			<scope>test</scope>
 		</dependency>
 
@@ -32,6 +32,19 @@
 			<artifactId>poi-ooxml</artifactId>
 			<version>5.2.5</version>
 		</dependency>
+		
+		 <dependency>
+      <groupId>org.slf4j</groupId>
+      <artifactId>slf4j-api</artifactId>
+      <version>1.7.36</version>
+    </dependency>
+    
+    <!-- SLF4J Simple Binding (For basic logging) -->
+    <dependency>
+      <groupId>org.slf4j</groupId>
+      <artifactId>slf4j-simple</artifactId>
+      <version>1.7.36</version>
+    </dependency>
 
 	</dependencies>
 </project>
