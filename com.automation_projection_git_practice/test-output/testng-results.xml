@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-01-25T13:53:29 IST" name="Default suite" finished-at="2025-01-25T13:53:53 IST" duration-ms="24206">
+  <suite started-at="2025-02-01T23:38:01 IST" name="Suite" finished-at="2025-02-01T23:38:13 IST" duration-ms="12204">
     <groups>
     </groups>
-    <test started-at="2025-01-25T13:53:29 IST" name="Default test" finished-at="2025-01-25T13:53:53 IST" duration-ms="24206">
+    <test started-at="2025-02-01T23:38:01 IST" name="Test" finished-at="2025-02-01T23:38:13 IST" duration-ms="12204">
       <class name="com.automation_projection_git_practice.testcases.LoginPageTC">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.automation_projection_git_practice.testcases.LoginPageTC@58d75e99]" started-at="2025-01-25T13:53:29 IST" name="setUp" finished-at="2025-01-25T13:53:51 IST" duration-ms="22023" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.automation_projection_git_practice.testcases.LoginPageTC@d5b810e]" started-at="2025-02-01T23:38:01 IST" name="setUp" finished-at="2025-02-01T23:38:09 IST" duration-ms="7286" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyLoginFunctionality()[pri:0, instance:com.automation_projection_git_practice.testcases.LoginPageTC@58d75e99]" started-at="2025-01-25T13:53:51 IST" name="verifyLoginFunctionality" finished-at="2025-01-25T13:53:53 IST" duration-ms="2105" status="PASS">
+        <test-method signature="verifyLoginFunctionality()[pri:0, instance:com.automation_projection_git_practice.testcases.LoginPageTC@d5b810e]" started-at="2025-02-01T23:38:09 IST" name="verifyLoginFunctionality" finished-at="2025-02-01T23:38:13 IST" duration-ms="4014" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginFunctionality -->
       </class> <!-- com.automation_projection_git_practice.testcases.LoginPageTC -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
